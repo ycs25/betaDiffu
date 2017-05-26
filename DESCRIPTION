@@ -1,0 +1,13 @@
+Package: betaDiffusion
+Type: Package
+Title: A Simulation of Diffusion Process with Beta Invariant Measure
+Version: 0.1.0
+Author: Yicheng Su <ysu8@kent.edu>
+Maintainer: Yicheng Su <ysu8@kent.edu>
+Description: A simulation of one-dimensional diffusion process with beta invariant measure using Euler-Maruyama method.
+    It also contains an esitmating function of parameters of diffusion models with beta invariant measure.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: rootSolve
+RoxygenNote: 6.0.1
